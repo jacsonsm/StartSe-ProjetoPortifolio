@@ -1,5 +1,5 @@
 # Portifólio
 
 <h1 align="left">
-   <video src="./public/video/Pagina-readme.mp4"></video>
+    <img src="./public/img/picture-readme.png" width="100%">
 </h1>
